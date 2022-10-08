@@ -1,9 +1,8 @@
 ---
-date created: 2022-10-07 17:42:52
-date updated: 2022-10-07 21:07
-tags: [code, language]
 title: VHDL语言基础
-date modified: 2022-10-08 20:05:52
+date created: 2022-10-07 17:42:52
+date modified: 2022-10-08 20:14:46
+tags: [code, language]
 ---
 
 ## 标识符

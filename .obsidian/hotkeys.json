@@ -56,5 +56,6 @@
       ],
       "key": "L"
     }
-  ]
+  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": []
 }

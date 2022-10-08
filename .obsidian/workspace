@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f1a199eeca9daed0",
+        "id": "66c14a73268d08e4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/2022-10-08.md",
+            "file": "Notes/线代总结/弃坑线代总结的一些反思.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2022-10-08.md",
+                "file": "Notes/线代总结/弃坑线代总结的一些反思.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2022-10-08.md",
+                "file": "Notes/线代总结/弃坑线代总结的一些反思.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2022-10-08.md"
+                "file": "Notes/线代总结/弃坑线代总结的一些反思.md"
               }
             }
           },
@@ -152,17 +152,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f1a199eeca9daed0",
+  "active": "66c14a73268d08e4",
   "lastOpenFiles": [
-    "Daily/2022-10-07.md",
-    "Daily/2022-10-06.md",
-    "Daily/2022-10-05.md",
-    "Course/语音信号处理基础.md",
-    "Course/信号建模与算法实践.md",
-    "Course/数字图像处理.md",
-    "Course/多媒体技术基础.md",
-    "Course/电子系统设计.md",
-    "Course/电磁场理论.md",
-    "作业/电子系统设计综合设计第一次作业/电子系统综合设计第一次作业.md"
+    "Daily/2022-10-08.md",
+    "Notes/线代总结/弃坑线代总结的一些反思.md",
+    "Notes/线代总结/概率论与数理统计.md",
+    "Notes/线代总结/概统.md",
+    "Notes/线代总结/线代总结.md",
+    "Notes/线代总结/伴随矩阵.md",
+    "Notes/线代总结/矩阵的逆.md",
+    "Notes/线代总结/代数余子式.md",
+    "Notes/线代总结/行列式.md",
+    "Notes/线代总结/矩阵基础.md"
   ]
 }

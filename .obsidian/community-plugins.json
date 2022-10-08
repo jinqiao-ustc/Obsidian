@@ -1,6 +1,5 @@
 [
   "obsidian-mind-map",
-  "table-editor-obsidian",
   "obsidian-collapse-all-plugin",
   "obsidian-better-codeblock",
   "sliding-panes-obsidian",
@@ -8,17 +7,13 @@
   "code-block-copy",
   "calendar",
   "obsidian-excalidraw-plugin",
-  "obsidian-hover-editor",
   "obsidian-rollover-daily-todos",
-  "text-snippets-obsidian",
   "nldates-obsidian",
   "note-refactor-obsidian",
   "cm-chs-patch",
-  "obsidian-pangu",
-  "obsidian-code-block-enhancer",
   "obsidian-image-auto-upload-plugin",
   "obsidian-linter",
   "obsidian-checklist-plugin",
   "shortcuts-extender",
-  "dataview"
+  "table-editor-obsidian"
 ]

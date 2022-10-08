@@ -1,7 +1,7 @@
 ---
 title: VHDL语句
 date created: 2022-10-07 20:05:09
-date modified: 2022-10-08 20:05:52
+date modified: 2022-10-08 22:20:31
 ---
 ## 并行语句
 

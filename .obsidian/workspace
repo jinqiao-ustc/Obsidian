@@ -89,14 +89,6 @@
             }
           },
           {
-            "id": "cd740c1af9658b87",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "374f95d9a7a434b8",
             "type": "leaf",
             "state": {
@@ -144,9 +136,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "91edf97fc4a74c1d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -155,14 +155,14 @@
   "active": "f1a199eeca9daed0",
   "lastOpenFiles": [
     "Daily/2022-10-07.md",
-    "Daily/2022-10-08.md",
-    "Course/电子系统设计.md",
+    "Daily/2022-10-06.md",
+    "Daily/2022-10-05.md",
+    "Course/语音信号处理基础.md",
+    "Course/信号建模与算法实践.md",
     "Course/数字图像处理.md",
     "Course/多媒体技术基础.md",
-    "Notes/VHDL/VHDL语言基础.md",
-    "Daily/2022-10-05.md",
+    "Course/电子系统设计.md",
     "Course/电磁场理论.md",
-    "Course/语音信号处理基础.md",
-    "Course/信号建模与算法实践.md"
+    "作业/电子系统设计综合设计第一次作业/电子系统综合设计第一次作业.md"
   ]
 }

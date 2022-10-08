@@ -1,5 +1,7 @@
 ---
-date created: '{{date:YYYY-MM-DD HH:mm}}'
+date created: 2022-10-06 14:26:35
+title: zzz-daily
+date modified: 2022-10-08 19:56:30
 ---
 
 ## 每日任务

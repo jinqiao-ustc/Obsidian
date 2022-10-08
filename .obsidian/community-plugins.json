@@ -1,19 +1,14 @@
 [
   "obsidian-mind-map",
   "table-editor-obsidian",
-  "obsidian-day-planner",
   "obsidian-collapse-all-plugin",
   "obsidian-better-codeblock",
-  "obsidian-icon-folder",
-  "obsidian-show-file-path",
   "sliding-panes-obsidian",
   "file-tree-alternative",
   "code-block-copy",
   "calendar",
   "obsidian-excalidraw-plugin",
-  "mousewheel-image-zoom",
   "obsidian-hover-editor",
-  "markdown-prettifier",
   "obsidian-rollover-daily-todos",
   "text-snippets-obsidian",
   "nldates-obsidian",
@@ -22,5 +17,8 @@
   "obsidian-pangu",
   "obsidian-code-block-enhancer",
   "obsidian-image-auto-upload-plugin",
-  "obsidian-git"
+  "obsidian-linter",
+  "obsidian-checklist-plugin",
+  "shortcuts-extender",
+  "dataview"
 ]

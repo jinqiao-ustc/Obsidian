@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "vimMode": false,
+  "communityThemeSortOrder": "download",
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showUnsupportedFiles": true
+}

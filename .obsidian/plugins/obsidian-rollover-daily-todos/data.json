@@ -1,0 +1,5 @@
+{
+  "templateHeading": "## 每日任务",
+  "deleteOnComplete": true,
+  "removeEmptyTodos": true
+}

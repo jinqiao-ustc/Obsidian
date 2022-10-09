@@ -15,5 +15,8 @@
   "obsidian-linter",
   "obsidian-checklist-plugin",
   "shortcuts-extender",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "remember-cursor-position",
+  "recent-files-obsidian",
+  "obsidian-git"
 ]

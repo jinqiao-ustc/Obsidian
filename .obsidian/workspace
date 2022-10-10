@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/2022-10-09.md",
+            "file": "Daily/2022-10-10.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2022-10-09.md",
+                "file": "Daily/2022-10-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2022-10-09.md",
+                "file": "Daily/2022-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2022-10-09.md"
+                "file": "Daily/2022-10-10.md"
               }
             }
           },
@@ -160,17 +160,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "83fa95975d86d0aa",
+  "active": "66c14a73268d08e4",
   "lastOpenFiles": [
-    "Templates/zzz-daily.md",
     "Daily/2022-10-09.md",
+    "Daily/2022-10-10.md",
+    "Templates/zzz-daily.md",
     "Daily/2022-10-08.md",
     "README.md",
     "Notes/线代总结/弃坑线代总结的一些反思.md",
     "Notes/线代总结/概率论与数理统计.md",
     "Notes/线代总结/概统.md",
     "Notes/线代总结/线代总结.md",
-    "Notes/线代总结/伴随矩阵.md",
-    "Notes/线代总结/矩阵的逆.md"
+    "Notes/线代总结/伴随矩阵.md"
   ]
 }

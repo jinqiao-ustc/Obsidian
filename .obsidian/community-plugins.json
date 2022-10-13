@@ -7,16 +7,15 @@
   "code-block-copy",
   "calendar",
   "obsidian-excalidraw-plugin",
-  "obsidian-rollover-daily-todos",
   "nldates-obsidian",
   "note-refactor-obsidian",
   "cm-chs-patch",
   "obsidian-image-auto-upload-plugin",
   "obsidian-linter",
-  "obsidian-checklist-plugin",
   "shortcuts-extender",
   "table-editor-obsidian",
   "remember-cursor-position",
   "recent-files-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-checklist-plugin"
 ]

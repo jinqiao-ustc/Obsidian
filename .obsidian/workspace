@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "66c14a73268d08e4",
+        "id": "49d2af3b33d41bbe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "作业/多媒体技术基础/第二次作业/第二次作业.md",
+            "file": "Daily/2022-10-12.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "作业/多媒体技术基础/第二次作业/第二次作业.md",
+                "file": "Daily/2022-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "作业/多媒体技术基础/第二次作业/第二次作业.md",
+                "file": "Daily/2022-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作业/多媒体技术基础/第二次作业/第二次作业.md"
+                "file": "Daily/2022-10-12.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           },
           {
-            "id": "91edf97fc4a74c1d",
+            "id": "699fd17f8c1333fd",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -160,17 +160,17 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "66c14a73268d08e4",
+  "active": "699fd17f8c1333fd",
   "lastOpenFiles": [
+    "Daily/2022-10-11.md",
+    "Daily/2022-10-10.md",
+    "作业/多媒体技术基础/第二次作业/PB19061272_金桥_第二次作业.pdf",
     "作业/多媒体技术基础/第二次作业/第二次作业.md",
     "作业/多媒体技术基础/第二次作业/作业要求.md",
     "作业/多媒体技术基础/未命名.md",
     "README.md",
     "随笔/第三方插件/Icon Folder.md",
-    "Daily/2022-10-10.md",
     "Daily/2022-10-09.md",
-    "Templates/zzz-daily.md",
-    "Daily/2022-10-08.md",
-    "Notes/线代总结/弃坑线代总结的一些反思.md"
+    "Templates/zzz-daily.md"
   ]
 }

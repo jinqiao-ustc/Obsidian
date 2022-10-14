@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/2022-10-13.md",
+            "file": "Daily/2022-10-14.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2022-10-13.md",
+                "file": "Daily/2022-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2022-10-13.md",
+                "file": "Daily/2022-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2022-10-13.md"
+                "file": "Daily/2022-10-14.md"
               }
             }
           },
@@ -154,23 +154,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "49d2af3b33d41bbe",
+  "active": "09a22ba90c729085",
   "lastOpenFiles": [
+    "Daily/2022-10-11.md",
     "Daily/2022-10-12.md",
+    "Daily/2022-10-14.md",
     "Daily/2022-10-13.md",
     "Daily/2022-10-09.md",
     "Daily/2022-10-10.md",
     "Daily/2022-10-07.md",
     "Daily/2022-10-08.md",
-    "Daily/2022-10-11.md",
     "作业/多媒体技术基础/第二次作业/PB19061272_金桥_第二次作业.pdf",
-    "作业/多媒体技术基础/第二次作业/第二次作业.md",
-    "作业/多媒体技术基础/第二次作业/作业要求.md"
+    "作业/多媒体技术基础/第二次作业/第二次作业.md"
   ]
 }

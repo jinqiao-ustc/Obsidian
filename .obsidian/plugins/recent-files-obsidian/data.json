@@ -5,12 +5,40 @@
       "path": "Daily/2022-10-14.md"
     },
     {
-      "basename": "2022-10-12",
-      "path": "Daily/2022-10-12.md"
+      "basename": "zzz-daily",
+      "path": "Templates/zzz-daily.md"
+    },
+    {
+      "basename": "2022-10-16",
+      "path": "Daily/2022-10-16.md"
+    },
+    {
+      "basename": "2022-10-15",
+      "path": "Daily/2022-10-15.md"
     },
     {
       "basename": "2022-10-11",
       "path": "Daily/2022-10-11.md"
+    },
+    {
+      "basename": "2022-10-12",
+      "path": "Daily/2022-10-12.md"
+    },
+    {
+      "basename": "电子系统综合设计第一次作业",
+      "path": "作业/电子系统设计综合设计第一次作业/电子系统综合设计第一次作业.md"
+    },
+    {
+      "basename": "Pasted image 20221005213619",
+      "path": "作业/电子系统设计综合设计第一次作业/Pasted image 20221005213619.png"
+    },
+    {
+      "basename": "电子系统综合设计第一次作业",
+      "path": "作业/电子系统设计综合设计第一次作业/电子系统综合设计第一次作业.pdf"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "2022-10-13",
@@ -39,14 +67,6 @@
     {
       "basename": "第二次作业",
       "path": "作业/多媒体技术基础/第二次作业/第二次作业.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "zzz-daily",
-      "path": "Templates/zzz-daily.md"
     }
   ],
   "omittedPaths": [],

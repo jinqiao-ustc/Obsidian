@@ -2,6 +2,7 @@
   "cssTheme": "Minimal",
   "theme": "system",
   "translucency": false,
-  "baseFontSize": 18,
-  "accentColor": ""
+  "baseFontSize": 15,
+  "accentColor": "",
+  "interfaceFontFamily": ""
 }

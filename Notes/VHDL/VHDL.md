@@ -1,7 +1,7 @@
 ---
 title: VHDL
 date created: 2022-10-07 18:59:52
-date modified: 2022-10-15 00:01:26
+date modified: 2022-10-16 16:16:02
 ---
 
 ## [[VHDL语言基础]]

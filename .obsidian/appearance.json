@@ -2,5 +2,6 @@
   "cssTheme": "Minimal",
   "theme": "system",
   "translucency": false,
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "accentColor": ""
 }

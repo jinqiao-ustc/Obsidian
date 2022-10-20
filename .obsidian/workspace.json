@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2022-10-18.md",
+                "file": "Daily/2022-10-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2022-10-18.md",
+                "file": "Daily/2022-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2022-10-18.md",
+                "file": "Daily/2022-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2022-10-18.md"
+                "file": "Daily/2022-10-19.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,8 +173,8 @@
   },
   "active": "fc2ac6f5c6e044b9",
   "lastOpenFiles": [
-    "Daily/2022-10-17.md",
     "Daily/2022-10-18.md",
+    "Daily/2022-10-17.md",
     "作业/电子系统综合设计/第二次作业/第二次作业.md",
     "Excalidraw/第二次作业 2022-10-18 21.13.25.excalidraw.md",
     "Excalidraw/Drawing 2022-10-18 21.13.01.excalidraw.md",

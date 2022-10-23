@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2022-10-20.md",
+                "file": "Daily/2022-10-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2022-10-20.md",
+                "file": "Daily/2022-10-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2022-10-20.md",
+                "file": "Daily/2022-10-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2022-10-20.md"
+                "file": "Daily/2022-10-22.md"
               }
             }
           },
@@ -146,18 +146,18 @@
             }
           },
           {
-            "id": "4c9ca1b898fa2b54",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "699fd17f8c1333fd",
             "type": "leaf",
             "state": {
               "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c9ca1b898fa2b54",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -173,15 +173,15 @@
   },
   "active": "fc2ac6f5c6e044b9",
   "lastOpenFiles": [
-    "Daily/2022-10-19.md",
-    "Daily/2022-10-18.md",
-    "Daily/2022-10-17.md",
-    "作业/电子系统综合设计/第二次作业/第二次作业.md",
-    "Excalidraw/第二次作业 2022-10-18 21.13.25.excalidraw.md",
-    "Excalidraw/Drawing 2022-10-18 21.13.01.excalidraw.md",
-    "作业/电子系统综合设计/第一次作业/电子系统综合设计第一次作业.md",
-    "作业/多媒体技术基础/第二次作业/第二次作业.md",
-    "作业/电子系统综合设计/第一次作业/电子系统综合设计第一次作业.pdf",
-    "Daily/2022-10-12.md"
+    "Templates/zzz-daily.md",
+    "Daily/2022-10-22.md",
+    "README.md",
+    "作业/电子系统综合设计/第三次作业/第三次作业.pdf",
+    "作业/电子系统综合设计/第三次作业/第三次作业.md",
+    "Daily/2022-10-14.md",
+    "Daily/2022-10-12.md",
+    "Daily/2022-10-20.md",
+    "Daily/2022-10-25.md",
+    "Daily/2022-10-21.md"
   ]
 }

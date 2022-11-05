@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4504480d4a8dcc2c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "作业/电子系统综合设计/未命名/第四次作业.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "作业/语音信号处理/第一次实验报告.md",
+                "file": "作业/电子系统综合设计/未命名/第四次作业.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "作业/语音信号处理/第一次实验报告.md",
+                "file": "作业/电子系统综合设计/未命名/第四次作业.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作业/语音信号处理/第一次实验报告.md"
+                "file": "作业/电子系统综合设计/未命名/第四次作业.pdf"
               }
             }
           },
@@ -168,20 +179,17 @@
     "direction": "horizontal",
     "width": 313.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "65fb2104431bbfc8",
+  "active": "4504480d4a8dcc2c",
   "lastOpenFiles": [
-    "Daily/2022-10-30.md",
+    "作业/电子系统综合设计/未命名/第四次作业.md",
+    "作业/电子系统综合设计/第一次作业/电子系统综合设计第一次作业.md",
     "作业/语音信号处理/第一次实验报告.md",
+    "Daily/2022-10-30.md",
     "作业/语音信号处理/第一次实验报告.pdf",
     "Pasted image 20221030214606.png",
     "作业/多媒体技术基础/第二次作业/第二次作业.md",
     "Daily/2022-10-20.md",
     "Daily/2022-10-25.md",
-    "Excalidraw/Drawing 2022-10-18 21.13.01.excalidraw.md",
-    "Excalidraw/第二次作业 2022-10-18 21.13.25.excalidraw.md",
-    "Daily/2022-10-24.md"
+    "Excalidraw/Drawing 2022-10-18 21.13.01.excalidraw.md"
   ]
 }

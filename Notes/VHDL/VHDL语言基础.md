@@ -1,7 +1,7 @@
 ---
 title: VHDL语言基础
 date created: 2022-10-07 17:42:52
-date modified: 2022-11-05 17:06:51
+date modified: 2022-11-10 22:58:32
 tags: [code, language]
 ---
 

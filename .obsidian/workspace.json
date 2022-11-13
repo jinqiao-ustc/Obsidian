@@ -11,8 +11,12 @@
             "id": "05dfa8decdc6dcae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "作业/信号建模/实验四/实验四  基于高斯混合模型的二分类.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "作业/信号建模/实验四/实验四  基于高斯混合模型的二分类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "作业/信号建模/实验四/实验四  基于高斯混合模型的二分类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "作业/信号建模/实验四/实验四  基于高斯混合模型的二分类.md"
+              }
             }
           },
           {
@@ -160,7 +168,7 @@
     "direction": "horizontal",
     "width": 313.5
   },
-  "active": "09a22ba90c729085",
+  "active": "05dfa8decdc6dcae",
   "lastOpenFiles": [
     "作业/电子系统综合设计/第六次作业/第六次作业.md",
     "Daily/2022-11-12.md",

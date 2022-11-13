@@ -1,7 +1,7 @@
 ---
 title: VHDL基本结构
 date created: 2022-10-07 19:42:23
-date modified: 2022-11-10 22:58:32
+date modified: 2022-11-13 20:05:31
 ---
 
 ## 基本结构
